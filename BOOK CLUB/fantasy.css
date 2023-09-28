@@ -1,0 +1,39 @@
+body{
+    margin: o;
+    padding: 0;
+    background-color:#6499E9;
+}
+
+
+/* CSS to style the book container and its elements */
+.book {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px; 
+  }
+  
+  .book img {
+    width: 300px; /*  to Adjust the width of the book cover */
+    margin-right: 10px; /*  to Adjust the spacing between the cover and info */
+  }
+  
+  .book-info {
+    flex: 1;
+  }
+  
+  .book-title {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+
+  
+  .book-summary {
+    margin: 80;
+    font-size: 30px ;
+    
+   
+  }
+  
